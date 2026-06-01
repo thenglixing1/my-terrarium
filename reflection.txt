@@ -1,0 +1,14 @@
+Reflection Report 
+
+For this assignment, I enhanced a terrarium web page using CSS and JavaScript. 
+I added a keyframe animation to make plants sway naturally, and implemented 
+DOM features including a reset button, double-click to bring plants to the 
+front, hover glow effects, drag boundaries, localStorage to save plant 
+positions, and sound effects.
+
+I learned how CSS animations and DOM event handling work together to create 
+interactive web experiences. The most challenging part was implementing the 
+drag boundary logic to keep plants inside the terrarium.I'm not very proficient 
+at adding these features yet, for example, when adding the set, save, and clear f
+unctions.
+
